@@ -44,7 +44,7 @@
 	<preference name="SplashScreen" value="splash" />
 	<preference name="SplashScreenDelay" value="10000" />
 	<preference name="FadeSplashScreenDuration" value="300" />
-	<preference name="ShowSplashScreenSpinner" value="false" />
+	<preference name="ShowSplashScreenSpinner" value="true" />
 
 	<!-- Icons and Splashscreens declaration -->
 
